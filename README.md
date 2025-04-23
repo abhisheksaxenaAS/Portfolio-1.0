@@ -1,10 +1,6 @@
-# YO! Welcome to the "Steam" developer portfolio template
+# YO! Welcome to the Abhishek Saxena portfolio template
 
-Steam is a starter template designed to help you land more interviews. Below we'll walk through exactly how you can customize this template to make it your own.
-
-Before we go too far, note that I've provided a video walkthrough of the entire project [HERE](https://youtu.be/hu-XLI3bFX8).
-
-You can also find a live version of this project deployed at [https://steam-portfolio-demo.vercel.app/](https://steam-portfolio-demo.vercel.app/).
+You can find a live version of this project deployed at [https://portfolio-1-0-sable.vercel.app/](https://portfolio-1-0-sable.vercel.app/).
 
 ## Let's get things running
 
@@ -83,6 +79,3 @@ The first six variables are the colors for the app. The last six are font sizes.
 
 That's the basics! If you're comfortable digging in yourself, then you should be set.
 
-Want a deeper walkthrough??
-
-[WATCH THE TUTORIAL VIDEO](https://youtu.be/hu-XLI3bFX8)
