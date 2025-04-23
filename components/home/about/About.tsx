@@ -27,7 +27,7 @@ export const About = () => {
 
           <Reveal>
             <p className={styles.aboutText}>
-              My tech stack includes React, Tailwind CSS, Node.js, Spring Boot, and MySQL — along with strong experience in API integration, user authentication, and database design. I'm also familiar with Docker, Linux environments, and tools like Roboflow for deploying AI/ML models.
+              My tech stack includes React, Tailwind CSS, Node.js, Spring Boot, and MySQL — along with strong experience in API integration, user authentication, and database design. I&apos;m also familiar with Docker, Linux environments, and tools like Roboflow for deploying AI/ML models.
             </p>
           </Reveal>
 
