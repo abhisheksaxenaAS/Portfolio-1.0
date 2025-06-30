@@ -34,7 +34,7 @@ const experience = [
     title: "Global Infoventures Pvt. Ltd.",
     position: "AI/ML Trainee",
     time: "December 2023 - June 2024",
-    location: "Sector-63, Noida",
+    location: "ABESIT-Ghazibad",
     description:
       "Developed user- friendly interfaces for AI / ML applications using HTML, CSS, JavaScript, and React, integrating AI / ML models into the frontend for real - time data visualization and interactive features.Analyzed application performance and gained hands - on experience in implementing computer vision solutions using Python and deep learning frameworks.",
     tech: ["JavaScript", "React.js", "TensorFlow/PyTorch", "Python", "Jupyter Notebook", "Roboflow", "Gmail API"],
