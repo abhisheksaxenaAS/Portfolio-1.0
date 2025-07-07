@@ -13,17 +13,18 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              Hello! I&apos;m Abhishek Saxena, and I&apos;m final year Computer Science and Engineering student.
+              Hello! I&apos;m Abhishek Saxena, and I&apos;m recent graduate in Computer Science and Engineering..
               <br /><br />
               I specialize in both frontend and backend development, combining creativity and logic to deliver seamless user experiences and powerful functionality.
             </p>
           </Reveal>
 
-          <Reveal>
-            <p className={styles.aboutText}>
-              On the backend, I work extensively with <strong>Spring Boot</strong> for creating robust, secure RESTful APIs and enterprise-grade applications. I also build efficient server-side solutions using <strong>JavaScript (Node.js)</strong>, giving me flexibility in designing modern full-stack applications.
-            </p>
-          </Reveal>
+         <Reveal>
+           <p className={styles.aboutText}>
+             On the backend, I specialize in building robust and secure RESTful APIs using both <strong>Spring Boot</strong> and <strong>Node.js with Express.js</strong>. This dual expertise allows me to design scalable, enterprise-grade applications in Java as well as fast, efficient server-side solutions in JavaScript, enabling flexibility across modern full-stack development.
+           </p>
+         </Reveal>
+
 
           <Reveal>
             <p className={styles.aboutText}>
