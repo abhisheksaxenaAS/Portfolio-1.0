@@ -11,23 +11,22 @@ export const Hero = () => {
     <section className={`section-wrapper ${styles.hero}`}>
       <div className={styles.heroGrid}>
         <div className={styles.copyWrapper}>
-          
+
           <Reveal>
             <h1 className={styles.title}>
               Hi, I&apos;m AS<span>.</span>
             </h1>
           </Reveal>
-          
+
           <Reveal>
             <h2 className={styles.subTitle}>
-              I&apos;m a <span>Frontend Developer</span>
+              I&apos;m a <span>Full Stack Developer</span>
             </h2>
           </Reveal>
-          
+
           <Reveal>
             <p className={styles.aboutCopy}>
-              I&apos:m a web developer with a strong foundation in Computer Science and a deep interest in AI/ML. Over the past few years, I&apos:ve built impactful web applications through personal projects and internships, constantly expanding my skill set. Passionate about creating modern digital solutions—always curious, always growing.
-              <br />Let&apos;s connect!
+              I&apos;m a web developer with a strong foundation in Computer Science and a deep interest in AI/ML. Over the past few years, I&apos:ve built impactful web applications through personal projects and internships, constantly expanding my skill set. Passionate about creating modern digital solutions—always curious, always growing - Let&apos;s connect!
             </p>
           </Reveal>
 
