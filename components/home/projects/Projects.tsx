@@ -83,7 +83,7 @@ const projects = [
           <p>🚚 Lightning-Fast Delivery</p>
           <p>💳 Safe & Seamless Payments</p>
           <p>🔍 Smart Search & Personalized Experience</p>
-          Easily find what you’re looking for with our powerful search and filter tools. Plus, enjoy a personalized feed based on your preferences and previous orders.
+          Easily find what you&apos;re looking for with our powerful search and filter tools. Plus, enjoy a personalized feed based on your preferences and previous orders.
         </p>
         <p>
           This exciting project was built using React for a dynamic frontend experience and styled with Tailwind CSS to ensure a clean, responsive, and user-friendly design.
@@ -97,9 +97,9 @@ const projects = [
 
   // {
   //   title: "Portfolio v.1",
-  //   imgSrc: "/project-imgs/portfolio-00.png",
-  //   code: "https://github.com/jcdevz-dev/jc-portfolio",
-  //   projectLink: "https://jc-devera.vercel.app/",
+  //   imgSrc: "",
+  //   code: "",
+  //   projectLink: "",
   //   tech: ["React", "Styled Components", "Typescript"],
   //   description: "First Portfolio Made with React JS",
   //   modalContent: (
