@@ -19,11 +19,11 @@ export const About = () => {
             </p>
           </Reveal>
 
-         <Reveal>
-           <p className={styles.aboutText}>
-             On the backend, I specialize in building robust and secure RESTful APIs using both <strong>Spring Boot</strong> and <strong>Node.js with Express.js</strong>. This dual expertise allows me to design scalable, enterprise-grade applications in Java as well as fast, efficient server-side solutions in JavaScript, enabling flexibility across modern full-stack development.
-           </p>
-         </Reveal>
+          <Reveal>
+            <p className={styles.aboutText}>
+              On the backend, I specialize in building robust and secure RESTful APIs using both <strong>Spring Boot</strong> and <strong>Node.js with Express.js</strong>. This dual expertise allows me to design scalable, enterprise-grade applications in Java as well as fast, efficient server-side solutions in JavaScript, enabling flexibility across modern full-stack development.
+            </p>
+          </Reveal>
 
 
           <Reveal>
@@ -36,7 +36,6 @@ export const About = () => {
             <p className={styles.aboutText}>
               I&apos;m always looking for new challenges and opportunities to learn and grow as a developer.
               If you&apos;re interested in working together or have any questions, please don&apos;t hesitate to get in touch!
-              🔗
             </p>
           </Reveal>
 
