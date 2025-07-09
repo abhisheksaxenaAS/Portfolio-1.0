@@ -94,6 +94,26 @@ const projects = [
     ),
   },
 
+  {
+    title: "Zinema - A movie ticket booking app ",
+    imgSrc: "/project-imgs/Zinema.png",
+    code: "https://github.com/abhisheksaxenaAS/Zinema.git",
+    projectLink:
+      "https://zinema-nu.vercel.app/",
+    tech: ["React", "MongoDB", "Express.js", "Node.js", "Tailwind", "Clerk-Authentication", "JavaScript"],
+    description:
+      "Zinema is a MERN stack-based movie ticket booking application that lets users browse movies, check showtimes, and securely book tickets. It features Clerk-based authentication with admin role support, TMDB integration for real-time movie data, Stripe for payments, and Brevo for email notifications. Inngest handles async tasks like background jobs and webhooks. The project is deployed via Vercel with MongoDB Atlas as the database, offering a fast, responsive, and production-ready user experience.",
+    modalContent: (
+      <>
+        <p>Zinema is a modern, full stack movie ticket booking application designed to provide users with a seamless and engaging experience for discovering movies and booking tickets. Built using the MERN stack (MongoDB, Express.js, React, Node.js), Zinema offers a dynamic interface with real-time movie data integration via TMDB (The Movie Database), enabling users to browse the latest movies, showtimes, and book tickets with ease.</p>
+        <p>User authentication and role management are handled securely using Clerk, allowing both regular users and admins to access tailored features. Admins can manage movies, shows, and bookings through a powerful admin dashboard, while users receive timely updates and booking confirmations via Brevo-powered email notifications. Stripe integration ensures smooth and secure payment processing for ticket purchases.</p>
+        <p>To enhance backend efficiency, the app utilizes Inngest for handling asynchronous events and background workflows such as email triggers and data syncs. MongoDB Atlas is used as the cloud database solution, ensuring data is stored reliably and scalably.</p>
+        <p>The project follows a clean code structure with environment-based configurations, and is fully version-controlled with GitHub. The frontend is deployed using Vercel, ensuring fast load times and a responsive user experience across devices. With thoughtful design, powerful integrations, and robust performance, Zinema delivers a production-ready movie ticket booking solution for both users and administrators.</p>
+
+      </>
+    ),
+  },
+
 
   // {
   //   title: "Portfolio v.1",
