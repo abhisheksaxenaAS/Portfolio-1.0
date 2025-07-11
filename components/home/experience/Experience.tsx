@@ -13,35 +13,26 @@ export const Experience = () => {
 };
 
 const experience = [
-
-
-  {
-    title: "Global Infoventures Pvt. Ltd.",
-    position: "AI/ML Trainee",
-    time: "December 2023 - June 2024",
-    location: "Ghazibad - Uttar Pradesh",
-    description: "Worked on end-to-end development of AI/ML projects, including data collection, preprocessing, annotation, and training of deep learning models using Python and frameworks like TensorFlow and PyTorch. Deployed models on NVIDIA Jetson Nano for real-time inference and performance optimization, gaining hands-on experience with embedded AI systems and computer vision solutions.",
-    tech: ["JavaScript", "React.js", "TensorFlow/PyTorch", "Python", "Jupyter Notebook", "Roboflow", "Gmail API"],
-  },
-
-
   {
     title: "Appz Global Tech Pvt. Ltd.",
     position: "Mern Stack Developer",
-    time: "July 2024 - September 2024",
+    time: "04/2025 - 06/2025",
     location: "Noida - Uttar Pradesh",
     description:
       "Developed full-stack web applications using the MERN stack (MongoDB, Express.js, React, Node.js) to deliver responsive and dynamic user experiences. Collaborated with cross-functional teams to design, develop, and deploy scalable solutions, while conducting code reviews, debugging, and performance optimization to ensure high efficiency, security, and adherence to software development best practices.",
     tech: [
-      "MongoDB",
-      "Express.js",
-      "React",
-      "Node.js",
-      "Git",
-      "Figma",
-      "Clerk"
+      "MongoDB", "Express.js", "React", "Node.js", "Git", "Figma", "Clerk"
     ],
-  }
+  },
+
+  {
+    title: "Global Infoventures Pvt. Ltd.",
+    position: "Frontend Developer",
+    time: "07/2024 - 09 2024",
+    location: "Ghazibad - Uttar Pradesh",
+    description: "Worked on end-to-end development of AI/ML projects, including data collection, preprocessing, annotation, and training of deep learning models using Python and frameworks like TensorFlow and PyTorch. Deployed models on NVIDIA Jetson Nano for real-time inference and performance optimization, gaining hands-on experience with embedded AI systems and computer vision solutions.",
+    tech: ["JavaScript", "React.js", "TensorFlow/PyTorch", "Python", "Jupyter Notebook", "Roboflow", "Gmail API"],
+  },
 
 
 
