@@ -30,8 +30,8 @@ const experience = [
     position: "Frontend Developer",
     time: "07/2024 - 09 2024",
     location: "Ghazibad - Uttar Pradesh",
-    description: "Worked on end-to-end development of AI/ML projects, including data collection, preprocessing, annotation, and training of deep learning models using Python and frameworks like TensorFlow and PyTorch. Deployed models on NVIDIA Jetson Nano for real-time inference and performance optimization, gaining hands-on experience with embedded AI systems and computer vision solutions.",
-    tech: ["JavaScript", "React.js", "TensorFlow/PyTorch", "Python", "Jupyter Notebook", "Roboflow", "Gmail API"],
+    description: "Worked on end-to-end development of responsive web applications using React.js, integrating modern UI libraries like Tailwind CSS and Shadcn UI for sleek, dynamic interfaces. Implemented state management using Context API, and enhanced frontend-backend communication via secure API integration using Axios. Gained hands-on experience in optimizing performance, managing authentication with JWT, and building scalable, mobile-first designs using Vite and component-based architecture.",
+    tech: ["JavaScript", "React.js", "Node.js", "Tailwind CSS", "Express.js", "APIs", "HTML5"],
   },
 
 
