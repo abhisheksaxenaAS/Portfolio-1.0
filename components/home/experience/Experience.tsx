@@ -28,7 +28,7 @@ const experience = [
   {
     title: "Global Infoventures Pvt. Ltd.",
     position: "Frontend Developer",
-    time: "07/2024 - 09 2024",
+    time: "07/2024 - 09/2024",
     location: "Ghazibad - Uttar Pradesh",
     description: "Worked on end-to-end development of responsive web applications using React.js, integrating modern UI libraries like Tailwind CSS and Shadcn UI for sleek, dynamic interfaces. Implemented state management using Context API, and enhanced frontend-backend communication via secure API integration using Axios. Gained hands-on experience in optimizing performance, managing authentication with JWT, and building scalable, mobile-first designs using Vite and component-based architecture.",
     tech: ["JavaScript", "React.js", "Node.js", "Tailwind CSS", "Express.js", "APIs", "HTML5"],
