@@ -26,7 +26,7 @@ export const Hero = () => {
 
           <Reveal>
             <p className={styles.aboutCopy}>
-              I&apos;m a web developer with a strong foundation in Computer Science and a deep interest in AI/ML. Over the past few years, I&apos:ve built impactful web applications through personal projects and internships, constantly expanding my skill set. Passionate about creating modern digital solutions—always curious, always growing - Let&apos;s connect!
+              I&apos;m a web developer with a strong foundation in Computer Science and a deep interest in AI/ML. Over the past few years, I&apos;ve built impactful web applications through personal projects and internships, constantly expanding my skill set. Passionate about creating modern digital solutions—always curious, always growing - Let&apos;s connect!
             </p>
           </Reveal>
 
