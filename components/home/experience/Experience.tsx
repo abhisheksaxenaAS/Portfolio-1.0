@@ -13,25 +13,25 @@ export const Experience = () => {
 };
 
 const experience = [
-  {
-    title: "Appz Global Tech Pvt. Ltd.",
-    position: "Mern Stack Developer",
-    time: "04/2025 - 06/2025",
-    location: "Noida - Uttar Pradesh",
-    description:
-      "Developed full-stack web applications using the MERN stack (MongoDB, Express.js, React, Node.js) to deliver responsive and dynamic user experiences. Collaborated with cross-functional teams to design, develop, and deploy scalable solutions, while conducting code reviews, debugging, and performance optimization to ensure high efficiency, security, and adherence to software development best practices.",
-    tech: [
-      "MongoDB", "Express.js", "React", "Node.js", "Git", "Figma", "Clerk"
-    ],
-  },
+  // {
+  //   title: "Appz Global Tech Pvt. Ltd.",
+  //   position: "Mern Stack Developer",
+  //   time: "04/2025 - 06/2025",
+  //   location: "Noida - Uttar Pradesh",
+  //   description:
+  //     "Developed full-stack web applications using the MERN stack (MongoDB, Express.js, React, Node.js) to deliver responsive and dynamic user experiences. Collaborated with cross-functional teams to design, develop, and deploy scalable solutions, while conducting code reviews, debugging, and performance optimization to ensure high efficiency, security, and adherence to software development best practices.",
+  //   tech: [
+  //     "MongoDB", "Express.js", "React", "Node.js", "Git", "Figma", "Clerk"
+  //   ],
+  // },
 
   {
     title: "Global Infoventures Pvt. Ltd.",
-    position: "Frontend Developer",
-    time: "12/2024 - 02/2025",
+    position: "AI/ML Trainee",
+    time: "11/2023 - 05/2024",
     location: "Ghazibad - Uttar Pradesh",
-    description: "Worked on end-to-end development of responsive web applications using React.js, integrating modern UI libraries like Tailwind CSS and Shadcn UI for sleek, dynamic interfaces. Implemented state management using Context API, and enhanced frontend-backend communication via secure API integration using Axios. Gained hands-on experience in optimizing performance, managing authentication with JWT, and building scalable, mobile-first designs using Vite and component-based architecture.",
-    tech: ["JavaScript", "React.js", "Node.js", "Tailwind CSS", "Express.js", "APIs", "HTML5"],
+    description: "Developed and deployed a deep learning–based real-time PPE violation detection system using Roboflow and custom-trained models, achieving 92% accuracy and reducing manual safety inspections by 40%.",
+    tech: ["JavaScript", "React.js", "Python", "Tailwind CSS", "Express.js", "APIs", "HTML5"],
   },
 
 
