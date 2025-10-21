@@ -115,7 +115,7 @@ const projects = [
   },
   {
     title: "Grab&Go - A Grocery Delivery Platform ",
-    imgSrc: "/project-imgs/Grab&Go",
+    imgSrc: "/project-imgs/Grab&Go.png",
     code: "https://github.com/abhisheksaxenaAS/Grab-Go---A-Grocery-Delivery-Platform.git",
     projectLink:
       "https://grabngo-app.vercel.app/",
