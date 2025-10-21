@@ -95,7 +95,7 @@ const projects = [
   },
 
   {
-    title: "Zinema - A movie ticket booking app ",
+    title: "Zinema - A Movie Ticket Booking System ",
     imgSrc: "/project-imgs/Zinema.png",
     code: "https://github.com/abhisheksaxenaAS/Zinema.git",
     projectLink:
@@ -110,6 +110,24 @@ const projects = [
         <p>To enhance backend efficiency, the app utilizes Inngest for handling asynchronous events and background workflows such as email triggers and data syncs. MongoDB Atlas is used as the cloud database solution, ensuring data is stored reliably and scalably.</p>
         <p>The project follows a clean code structure with environment-based configurations, and is fully version-controlled with GitHub. The frontend is deployed using Vercel, ensuring fast load times and a responsive user experience across devices. With thoughtful design, powerful integrations, and robust performance, Zinema delivers a production-ready movie ticket booking solution for both users and administrators.</p>
 
+      </>
+    ),
+  },
+  {
+    title: "Grab&Go - A Grocery Delivery Platform ",
+    imgSrc: "/project-imgs/Grab&Go",
+    code: "https://github.com/abhisheksaxenaAS/Grab-Go---A-Grocery-Delivery-Platform.git",
+    projectLink:
+      "https://grabngo-app.vercel.app/",
+    tech: ["React", "Express.js", "MongoDB", "Node.js", "Tailwind", "JavaScript", "Cloudinary"],
+    description:
+      "Grab&Go – A Modern E-Commerce Platform Welcome to Grab&Go — a full-stack e-commerce web application built with the MERN stack (MongoDB, Express.js, React, Node.js), featuring cloud image uploads, user authentication, product management, and optional Stripe-powered online payments.",
+    modalContent: (
+      <>
+        <p>Grab&Go is a modern, full-stack grocery delivery platform designed to provide users with a seamless and convenient online shopping experience. Built using the MERN stack (MongoDB, Express.js, React, Node.js), GrabnGo offers an intuitive interface that allows users to browse products, manage carts, and place orders with ease.</p>
+        <p>User authentication is securely handled using JWT and bcrypt.js, enabling safe sign-up and login. Admins can manage products, inventory, and orders efficiently through a dedicated admin dashboard, while product images are stored using Cloudinary and file uploads are handled with Multer for smooth management.</p>
+        <p>Payment processing is seamlessly integrated with **Stripe**, allowing users to complete transactions in real-time. The backend is optimized with **CORS**, **cookie-parser**, and **dotenv** to ensure secure API communication and environment-based configuration, making the platform production-ready.</p>
+        <p>GrabnGo leverages **MongoDB Atlas** for scalable and reliable cloud data storage and follows a clean code structure with version control using **GitHub**. The frontend is deployed with **Vercel**, providing fast load times and a responsive experience across devices. With its robust functionality, secure payment integration, and user-friendly design, GrabnGo delivers a comprehensive grocery delivery solution for both users and administrators.</p>
       </>
     ),
   },
